@@ -48,7 +48,4 @@ public class Detalle  implements Serializable{
         this.valorVenta = valorVenta;
     }
 
-
-
-
 }

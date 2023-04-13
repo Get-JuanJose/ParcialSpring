@@ -35,10 +35,6 @@ public class Cliente  implements Serializable{
     @NotNull (message = "campo requerido")
     private Date CreateAt;
 
-    // @PrePersist
-    // public void PrePersist(){
-    //     CreateAt = new Date();
-    // }
 
     public Long getId() {
         return Id;

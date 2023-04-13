@@ -1,0 +1,1 @@
+~~(Illegal character in path at index 99: file:/C:/Users/hogwa/.m2/repository/org/springframework/boot/spring-boot-starter-validation/2.7.10/" title="2.7.10/spring-boot-starter-validation-2.7.10/" title="2.7.10.pom)~~>Rewrite encountered an uncaught recipe error in org.openrewrite.maven.UpgradeDependencyVersion.
